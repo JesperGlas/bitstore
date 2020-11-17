@@ -1,6 +1,6 @@
 # bitstore
 
-This library contains functions to create, interpret and manipulate sequences of bits stored in integers.
+This python3 library contains functions to create, interpret and manipulate sequences of bits stored in integers.
 
 ## Installation
 To install this library just run the following code in you python3 venv:
